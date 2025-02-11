@@ -1,16 +1,40 @@
-## Hi there 👋
+### Hi there 👋
+#### My name is Dmitriy. I'm a java developer from Yegor'yevsk, Russia. And I'm glad to see you in my profile!
+### Socials
 
-<!--
-**AsKorbenKa/AsKorbenka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">  <a href="https://t.me/dimenatresky" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png" width="32" height="32" /></a> <a href="https://discord.com/users/korben_sweatheart" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://github.com/AsKorbenka" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> </p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Something about me
+
+### My education
+
+- Java Developer (Yandex Practicum, 2024-2025)
+- Aviation technician (Yegor'yevsky Aviation Technical College of Civil Aviation, Yegor'yevsk, 2016-2019)
+
+
+---
+
+### My projects
+
+- [Explore With Me](https://github.com/AsKorbenka/java-explore-with-me) - an analogue of event poster
+- [Share It](https://github.com/AsKorbenka/java-shareit) - a platform, where you can share your items with other users
+- [Filmorate](https://github.com/AsKorbenka/java-filmorate) - a movie rating service
+- [Task Manager](https://github.com/AsKorbenka/java-kanban) - a task planning tool
+
+---
+
+### My stack
+
+<img title="Java" height="50" src="images/java-svgrepo-com.svg">&nbsp;
+<img title="Spring" height="50" src="images/spring-svgrepo-com.svg">&nbsp;
+<img title="Hibernate" height="50" src="images/hibernate-svgrepo-com.svg">&nbsp;
+<img title="Lombok" height="50" src="images/pimientorojo_122736.svg">&nbsp;
+<img title="GitHub" height="50" src="images/github-svgrepo-com.svg">&nbsp;
+<img title="GitHub Actions" height="50" src="images/githubactions-svgrepo-com.svg">&nbsp;
+<img title="Docker" height="50" src="images/docker-logo-svgrepo-com.svg">&nbsp;
+<img title="Maven" height="50" src="images/maven-svgrepo-com.svg">&nbsp;
+<img title="PostgreSQL" height="50" src="images/postgresql-svgrepo-com.svg">&nbsp;
+<img title="Postman" height="50" src="images/postman-icon-svgrepo-com.svg">&nbsp;
+<img title="Swagger" height="50" src="images/swagger-svgrepo-com.svg">&nbsp;
+<img title="JSON" height="50" src="images/json-file-svgrepo-com.svg">&nbsp;[](url)
