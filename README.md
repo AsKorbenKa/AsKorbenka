@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### My name is Dmitriy. I'm a java developer from Yegor'yevsk, Russia. And I'm glad to see you in my profile!
+#### My name is Dmitriy. I'm a java developer from Egor'evsk, Russia. And I'm glad to see you in my profile!
 ### Socials
 
 <p align="left">  <a href="https://t.me/dimenatresky" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png" width="32" height="32" /></a> <a href="https://discord.com/users/korben_sweatheart" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://github.com/AsKorbenka" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> </p>
@@ -10,7 +10,7 @@
 ### My education
 
 - Java Developer (Yandex Practicum, 2024-2025)
-- Aviation technician (Yegor'yevsky Aviation Technical College of Civil Aviation, Yegor'yevsk, 2016-2019)
+- Aviation technician (Egor'evsky Aviation Technical College of Civil Aviation, Egor'evsk, 2016-2019)
 
 
 ---
