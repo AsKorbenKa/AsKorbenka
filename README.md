@@ -28,6 +28,7 @@
 
 <img title="Java" height="50" src="images/java-svgrepo-com.svg">&nbsp;
 <img title="Spring" height="50" src="images/spring-svgrepo-com.svg">&nbsp;
+<img title="Hibernate" height="50" src="images/hibernate-svgrepo-com.svg">&nbsp;
 <img title="Lombok" height="50" src="images/pimientorojo_122736.svg">&nbsp;
 <img title="GitHub" height="50" src="images/github-svgrepo-com.svg">&nbsp;
 <img title="GitHub Actions" height="50" src="images/githubactions-svgrepo-com.svg">&nbsp;
